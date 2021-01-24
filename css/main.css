@@ -1,0 +1,12 @@
+
+body {
+    background-color: #ce2424;
+}
+
+.wrapper {
+    width: 90%;
+    margin: 10px auto;
+background-color: #eee;
+border: 10px 10px solid black;
+}
+
